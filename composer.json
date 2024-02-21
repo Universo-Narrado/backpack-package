@@ -1,0 +1,17 @@
+{
+    "name": "universonarrado/backpack-package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "UniversoNarrado\\BackpackPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Universo Narrado",
+            "email": "universonarrado@gmail.com"
+        }
+    ],
+    "require": {}
+}
